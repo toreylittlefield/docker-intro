@@ -1,0 +1,11 @@
+{
+  "name": "docker-intro",
+  "version": "1.0.0",
+  "description": "following tutorials, especially the frontend masters tutorial, for learning docker as a frontend engineer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
