@@ -1,0 +1,17 @@
+{
+  "name": "docker-node-ts",
+  "version": "1.0.0",
+  "description": "simple docker ts server",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "scripts": {
+    "build": "tsc -b",
+    "start": "node dist/index.js"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^4.4.3",
+    "@types/node": "^16.10.3"
+  }
+}
